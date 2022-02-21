@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Hannah Kim :)
 - 👀 I’m interested in Cryptography. 
-  Also in Mathematics (ECC, Analysis and Number Theory) 
+  
+     Also in Mathematics (ECC, Analysis and Number Theory) 
   and Cyber Security.
-- I major in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.)
+ 
+ - I major in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.)
 
-Experience
+
+[Experience]
 
 - **EVI$ION [member]** Cyber Security club of Ewha Woman's University 2021.9~(present)
 - **EWHACHAIN [vice-president]** Blockchain Academic Group & Coummunity of Ewha Womans University 2021.9~2022.1
@@ -14,9 +17,12 @@ Experience
 
 - 🌱 I’m currently learning developing an NFT Marketplace with my club teammates. 
 - 📫 How to reach me : 
-  E-mail : haeun506@ewhain.net
-  ig : @hannahrosieblue
-  whatsapp : +82 10 2994 9344
+  
+   E-mail : haeun506@ewhain.net
+ 
+   ig : @hannahrosieblue
+ 
+   whatsapp : +82 10 2994 9344
   
 
 <!---
