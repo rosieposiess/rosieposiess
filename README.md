@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Hannah Kim :)
-- 👀 I’m interested in Cryptography. 
-  
-     Also in Mathematics (ECC, Analysis and Number Theory) 
-  and Cyber Security.
- 
- - I major in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.)
+- 👀 I’m interested in Cryptography and Malware analysis.
+-   
+     Also in Mathematics (ECC, Abstract Algebra and Number Theory) 
+
+ - I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.)
 
 
 [Experience]
