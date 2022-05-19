@@ -21,8 +21,6 @@
  
    ig : @hannahrosieblue
  
-   whatsapp : +82 10 2994 9344
-  
 
 <!---
 rosieposiess/rosieposiess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
