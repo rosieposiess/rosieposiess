@@ -10,15 +10,14 @@
 
 - **EVI$ION [member]** Cyber Security club of Ewha Woman's University 2021.9~(present)
 - **EWHACHAIN [vice-president]** Blockchain Academic Group & Coummunity of Ewha Womans University 2021.9~2022.1
-- **EWHACHAIN [Communication Manager]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.1~(present)
+- **EWHACHAIN [Communication Manager]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.1~2022.7
+- **EWHACHAIN [Research Director]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.7~(present)
 - **Pi-MARKET [Back-end]** Building an NFT Marketplace for University students
-
 
 - 🌱 I’m currently learning developing an NFT Marketplace with my club teammates. 
 - 📫 How to reach me : 
   
    E-mail : haeun506@ewhain.net
- 
    ig : @hannahrosieblue
  
 
