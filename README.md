@@ -31,9 +31,13 @@ I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.
 - **EVI$ION [member]** Cyber Security club of Ewha Woman's University 2021.9~2022.9
 - **EWHACHAIN [vice-president]** Blockchain Academic Group & Coummunity of Ewha Womans University 2021.9~2022.1
 - **EWHACHAIN [Communication Manager]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.1~2022.7
-- **EWHACHAIN [Research Director]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.7~(present)
+- **EWHACHAIN [Research Director]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.7~2022.12
 - **LAB [Research Internship]** Cryptography Lab in Ewha Woman's University, Aaram Yun 2022.5~2022.7
 - **Pi-MARKET [Back-end]** Building an NFT Marketplace for University students
+- **E-COPS [Communication Manager]** Cyber Security club of Ewha Woman's University 2022.9~2023.2
+- **E-COPS WEB-TF [Back-end]** Building a web site for E-COPS 2022.11~(present)
+- **E-COPS [member]** Cyber Security club of Ewha Woman's University 2023.3~(present) 
+
 
 </br>
 
