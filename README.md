@@ -43,7 +43,7 @@ In addition, I'm interested in Ethical Hacking(Web) and Back-end developing rece
 - **E-COPS [Communication Manager]** Cyber Security club of Ewha Woman's University 2022.9~2023.2
 - **E-COPS WEB-TF [Back-end]** Building a web site for E-COPS 2022.11~(present)
 - **E-COPS [member]** Cyber Security club of Ewha Woman's University 2023.3~(present) 
-
+- **SEM [member]** Mathematics academic club of Ewha Woman's University 2022.9~2023.2
 
 </br>
 
@@ -79,8 +79,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align=center>
 
-![Hannah's github stats](https://github-readme-stats.vercel.app/api?username=rosieposiess&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosieposiess&layout=compact&theme=dracula)](https://github.com/rosieposiess)
-
+![Hannah's github stats](https://github-readme-stats.vercel.app/api?username=rosieposiess&show_icons=true&theme=radical) 
 
 
 </div>
