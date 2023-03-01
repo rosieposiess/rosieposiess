@@ -43,7 +43,6 @@ In addition, I'm interested in Ethical Hacking(Web) and Back-end developing rece
 - **E-COPS WEB-TF [Back-end]** Building a web site for E-COPS 2022.11~(present)
 - **E-COPS [member]** Cyber Security club of Ewha Woman's University 2023.3~(present) 
 - **SEM [member]** Mathematics academic club of Ewha Woman's University 2022.9~2023.2
-<!--- **Pi-MARKET [Back-end]** Building an NFT Marketplace for University students --->
 
 </br>
 
