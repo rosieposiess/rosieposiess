@@ -33,7 +33,7 @@ In addition, I'm interested in Ethical Hacking(Web) and Back-end developing rece
 <h2>🌱 Experience</h2>
 </div>
 
-- **EVI$ION [member]** Cyber Security club of Ewha Woman's University 2021.9~2022.9
+- **EVI$ION [member]** Cyber Security club of Ewha Woman's University 2021.9~2022.9, 2023.3~
 - **EWHACHAIN [vice-president]** Blockchain Academic Group & Coummunity of Ewha Womans University 2021.9~2022.1
 - **EWHACHAIN [Communication Manager]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.1~2022.7
 - **EWHACHAIN [Research Director]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.7~2022.12
