@@ -34,14 +34,13 @@ In addition, I'm interested in Ethical Hacking(Web) and Back-end developing rece
 </div>
 
 - **EVI$ION [member]** Cyber Security club of Ewha Woman's University 2021.9~2022.9
-- **EWHACHAIN [vice-president]** Blockchain Academic Group & Coummunity of Ewha Womans University 2021.9~2022.1
+- **EWHACHAIN [Vice-president]** Blockchain Academic Group & Coummunity of Ewha Womans University 2021.9~2022.1
 - **EWHACHAIN [Communication Manager]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.1~2022.7
 - **EWHACHAIN [Research Director]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.7~2022.12
 - **LAB [Research Internship]** Cryptography Lab in Ewha Woman's University, Aaram Yun 2022.5~2022.7
 - **이화여대 또래코칭 [코치]** 4주간 학생들에게 암호 기초에 대해 가르침 2022.8
 - **E-COPS [Communication Manager]** Cyber Security club of Ewha Woman's University 2022.9~2023.2
 - **E-COPS WEB-TF [Back-end]** Building a web site for E-COPS 2022.11~(present)
-- **E-COPS [member]** Cyber Security club of Ewha Woman's University 2023.3~(present) 
 - **SEM [member]** Mathematics academic club of Ewha Woman's University 2022.9~2023.2
 
 </br>
@@ -53,7 +52,7 @@ In addition, I'm interested in Ethical Hacking(Web) and Back-end developing rece
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
     
  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
 
 
