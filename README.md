@@ -10,6 +10,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     </br>
+I'm a newbie hacker :)
 I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.)  
 </br>
 
@@ -20,11 +21,7 @@ I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.
 
 <h2>👀 Things I'm interested in...</h2>
 
-I’m a newbie 💙cryptographer💙 , Also a Math lover.
-
-In addition, I'm interested in Ethical Hacking(Web) and Back-end developing recently.
-
-  
+I'm interested in pwnable and Back-end developing recently.
 
 </div>  
 </br>
@@ -42,6 +39,9 @@ In addition, I'm interested in Ethical Hacking(Web) and Back-end developing rece
 - **E-COPS [Communication Manager]** Cyber Security club of Ewha Woman's University 2022.9~2023.2
 - **E-COPS WEB-TF [Back-end]** Building a web site for E-COPS 2022.11~(present)
 - **SEM [member]** Mathematics academic club of Ewha Woman's University 2022.9~2023.2
+- **EVI$ION [member]** Cyber Security club of Ewha Woman's University 2023.3~2023.7
+- **EVI$ION [Vice-President]** Cyber Security club of Ewha Woman's University 2023.8~(present)
+
 
 </br>
 
