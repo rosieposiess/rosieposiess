@@ -1,6 +1,6 @@
 <div align=center><h1>👋 Hi, I’m Hannah </h1>
 
-<a href="https://instagram.com/hannahrosieblue">
+<a href="https://www.instagram.com/hannahrosieblue/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -19,9 +19,8 @@ I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.
 </div>
 <div align=center>
 
-<h2>👀 Things I'm interested in...</h2>
-
-I'm interested in pwnable and Back-end developing recently.
+<h2>👀 I'm interested in System hacking(a.k.a Pwnable) </h2>
+Browser Hacking | Kernel Hacking | Heap Exploitation
 
 </div>  
 </br>
@@ -75,9 +74,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div align=center>
 
-![Hannah's github stats](https://github-readme-stats.vercel.app/api?username=rosieposiess&show_icons=true&theme=radical) 
-
-
-</div>
