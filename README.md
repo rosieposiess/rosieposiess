@@ -1,6 +1,6 @@
 <div align=center><h1>👋 Hi, I’m Hannah </h1>
 
-<a href="https://www.instagram.com/hannahrosieblue/">
+<a href="https://www.instagram.com/r0sieb1ue_security/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -20,29 +20,13 @@ I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.
 <div align=center>
 
 <h2>👀 I'm interested in System hacking(a.k.a Pwnable) </h2>
-Browser Hacking | Kernel Hacking | Heap Exploitation
+Kernel Hacking | Embedded Hacking | IoT Hacking
 
 </div>  
 </br>
 
 <div align=center>
-<h2>🌱 Experience</h2>
-</div>
 
-- **EVI$ION [member]** Cyber Security club of Ewha Woman's University 2021.9~2022.9
-- **EWHACHAIN [Vice-president]** Blockchain Academic Group & Coummunity of Ewha Womans University 2021.9~2022.1
-- **EWHACHAIN [Communication Manager]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.1~2022.7
-- **EWHACHAIN [Research Director]** Blockchain Academic Group & Coummunity of Ewha Womans University 2022.7~2022.12
-- **LAB [Research Internship]** Cryptography Lab in Ewha Woman's University, Aaram Yun 2022.5~2022.7
-- **이화여대 또래코칭 [코치]** 4주간 학생들에게 암호 기초에 대해 가르침 2022.8
-- **E-COPS [Communication Manager]** Cyber Security club of Ewha Woman's University 2022.9~2023.2
-- **E-COPS WEB-TF [Back-end]** Building a web site for E-COPS 2022.11~(present)
-- **SEM [member]** Mathematics academic club of Ewha Woman's University 2022.9~2023.2
-- **EVI$ION [member]** Cyber Security club of Ewha Woman's University 2023.3~2023.7
-- **EVI$ION [Vice-President]** Cyber Security club of Ewha Woman's University 2023.8~(present)
-
-
-</br>
 
 <div align=center>
     <h2>🛠️ Tech Stacks</h2>
