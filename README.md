@@ -10,8 +10,13 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     </br>
-I'm a newbie hacker :)
-I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.)  
+I'm a newbie hacker :)I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.)  
+
+I'm a undergraduate student who loves system security. My current research interests are kernel exploitation, compiler implementation, embedded hacking and IoT. 
+
+Currently I have been working as an intern at system team in Security HW SW & AI Research Lab in SNU, since February this year.
+
+I’ve been running a blog about security and hacking since February, 2023, and there are over 100 posts now. These days I’m into making pwnable challenges in CTFs.
 </br>
 
 </br>
@@ -19,9 +24,8 @@ I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.
 </div>
 <div align=center>
 
-<h2>👀 I'm interested in System hacking(a.k.a Pwnable) </h2>
-Kernel Hacking | Embedded Hacking | IoT Hacking
-
+<h2>👀 Current Research Interests </h2>
+Automative cybersecurity, Trusted Execution Environment
 </div>  
 </br>
 
