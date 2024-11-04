@@ -6,13 +6,13 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="haeun506@ewhain.net">
     <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haeun506@ewhain.net"
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haeun506@ewha.ac.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     </br>
-I'm a newbie hacker :)I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.)  
+I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.)  
 
-I'm a undergraduate student who loves system security. My current research interests are kernel exploitation, compiler implementation, embedded hacking and IoT. 
+I'm a undergraduate student who loves system security. My current research interests are kernel exploitation, trusted execution environment, embedded hacking and automative security. 
 
 Currently I have been working as an intern at system team in Security HW SW & AI Research Lab in SNU, since February this year.
 
