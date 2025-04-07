@@ -10,9 +10,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     </br>
-Hi, I'm Master&Ph.D integrated student in SNU(Seoul National University)
-I majored in Computer Cyber Security,Department of Mathematics, and Information security.
-My current research interests are trusted execution environment, embedded hacking and automative security. 
+I received the B.S. degree in Computer Cyber Security, Department of Mathematics, and Information security in 2025.
+
+I'm now currently pursuing the Ph.D. degree in electrical and computing engineering in Seoul National University, South Korea.
+
+My research interest is system security including trusted execution environment, embedded hacking and automative security. 
 
 I’ve been running a blog about security and hacking since February, 2023, and there are over 100 posts now. These days I’m into making pwnable challenges in CTFs.
 </br>
