@@ -10,11 +10,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     </br>
-I'm majoring in Computer Cyber Security(B.A.) and Department of Mathematics(B.E.)  
-
-I'm a undergraduate student who loves system security. My current research interests are kernel exploitation, trusted execution environment, embedded hacking and automative security. 
-
-Currently I have been working as an intern at system team in Security HW SW & AI Research Lab in SNU, since February this year.
+Hi, I'm Master&Ph.D integrated student in SNU(Seoul National University)
+I majored in Computer Cyber Security,Department of Mathematics, and Information security.
+My current research interests are trusted execution environment, embedded hacking and automative security. 
 
 I’ve been running a blog about security and hacking since February, 2023, and there are over 100 posts now. These days I’m into making pwnable challenges in CTFs.
 </br>
