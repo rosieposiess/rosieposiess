@@ -4,17 +4,13 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="haeun506@ewhain.net">
-    <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haeun506@ewha.ac.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> 
     </br>
-I received the B.S. degree in Computer Cyber Security, Department of Mathematics, and Information security in 2025.
+I received the B.S. degree in Computer Cyber Security, Department of Mathematics, and Information security in 2025 (total 3 major).
 
 I'm now currently pursuing the Ph.D. degree in electrical and computing engineering in Seoul National University, South Korea.
 
-My research interest is system security including trusted execution environment, embedded hacking and automative security. 
+My research interest is system security, specifically trusted execution environment, confidential GPU/NPU computing and automative security. 
 
 I’ve been running a blog about security and hacking since February, 2023, and there are over 100 posts now. These days I’m into making pwnable challenges in CTFs.
 </br>
@@ -25,7 +21,7 @@ I’ve been running a blog about security and hacking since February, 2023, and 
 <div align=center>
 
 <h2>👀 Current Research Interests </h2>
-Automative cybersecurity, Trusted Execution Environment
+Automative cybersecurity, Trusted Execution Environment, Confidential GPU/NPU computing
 </div>  
 </br>
 
